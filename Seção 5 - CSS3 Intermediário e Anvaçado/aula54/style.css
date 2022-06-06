@@ -1,0 +1,26 @@
+
+/* Herança 
+
+
+* {
+    border: 1px solid green;
+}
+
+body{
+    color: red;
+    border: 1px solid blue;  
+}
+
+*/
+
+
+/* Especificiade */
+
+p {
+    color: blue;
+}
+p {
+    color: green;
+}  /* O ultimo seletor que toma preferência, exceto se outro fpr seguido por !important */
+
+/* Quanto mais espcifico for, maior prioridade */
